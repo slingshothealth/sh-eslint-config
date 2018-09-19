@@ -1,0 +1,19 @@
+{
+  "name": "sh-config-eslint",
+  "version": "0.1.0",
+  "description": "Shared ESLINT Config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slingshothealth/sh-eslint-config.git"
+  },
+  "author": "Ricardo Cunha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slingshothealth/sh-eslint-config/issues"
+  },
+  "homepage": "https://github.com/slingshothealth/sh-eslint-config#readme"
+}
